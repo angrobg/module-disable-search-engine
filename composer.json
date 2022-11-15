@@ -1,6 +1,7 @@
 {
   "name": "zepgram/module-disable-search-engine",
   "description": "Magento2 module to disable search engine and fulltext indexing for category search",
+  "version": "999.0.0",
   "type": "magento2-module",
   "authors": [
     {
